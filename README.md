@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- Wave SVG Background -->
+<img src="https://raw.githubusercontent.com/daria-stanilevici/daria-stanilevici/main/wave-header.svg" width="100%" height="150px" />
 
-<!--
-**REINSET/REINSET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 23-year-old Computer Engineering student  
+💼 Intern at Banco Santander Brasil — Treasury & Financial Strategies  
+📊 Investment Banking · Quantitative Finance · Asset & Liability Management  
+🧠 Passionate about systems, automation, and data with direction  
+💻 Python · SQL · VBA · Excel · Git
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "interests": ["IB", "Quant", "ALM", "Data Structuring"],
+  "languages": ["Portuguese", "English", "German"],
+  "currently_learning": ["Databricks", "Financial Modeling", "Python for Finance"]
+}
